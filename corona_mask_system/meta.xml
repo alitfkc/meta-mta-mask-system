@@ -1,0 +1,8 @@
+<meta>
+    <info author="Meta Script" version="1.0" name="Maske Takma"/>
+    <script src="server.lua" type="server" />
+    <script src="client.lua" type="client" />
+
+    <file src='objeler/groucho.txd' />
+	<file src='objeler/grouchos.dff' />
+</meta>
